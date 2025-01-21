@@ -1,0 +1,1107 @@
+island country	0
+form of state	1
+television series	2
+human	3
+film genre	4
+film	5
+national association football team	6
+association football position	7
+Star Trek film	8
+British Academy Film Awards	9
+type of musical instrument	10
+Academy Awards	11
+Academy Awards ceremony	12
+audio release format	13
+country	14
+language	15
+sovereign state	16
+former capital	17
+private university	18
+class of award	19
+profession	20
+federal capital	21
+major religion	22
+music genre	23
+animated film	24
+Commonwealth realm	25
+international financial institution	26
+musical profession	27
+none	28
+award ceremony	29
+type of sport	30
+constitutional republic	31
+fiction genre	32
+film distributor	33
+county of Michigan	34
+currency	35
+sports discipline	36
+legislative term	37
+U.S. state	38
+college sports team	39
+American football position	40
+position	41
+city in the United States	42
+institute of technology	43
+award for best film	44
+men's association football team	45
+national capital	46
+association football club	47
+family of musical instruments	48
+musical instrument	49
+public research university	50
+occupation	51
+group of living things	52
+none	53
+specialty channel	54
+charter city	55
+computer manufacturer	56
+software category	57
+Grammy Awards	58
+natural language	59
+baseball team	60
+baseball position	61
+liberal arts college in the United States	62
+corporate title	63
+automobile manufacturer	64
+class of disease	65
+Producers Guild of America Awards	66
+television film	67
+award for best direction	68
+city	69
+miniseries	70
+anime film	71
+MTV Movie & TV Awards	72
+intergovernmental organization	73
+filmmaking occupation	74
+county of New Jersey	75
+county of New York	76
+historical period	77
+open-access publisher	78
+web color	79
+country bordering the Baltic Sea	80
+university	81
+defunct association football club	82
+Summer Olympic Games	83
+metropolis	84
+Cannes Film Festival Awards	85
+Primetime Emmy Award	86
+musical group	87
+film production company	88
+Writers Guild of America Award	89
+American football team	90
+public educational institution of the United States	91
+county seat	92
+ethnic group	93
+Winter Olympic Games	94
+anime television series	95
+medallion	96
+successor state	97
+musical instrument model	98
+record label	99
+Critics' Choice Movie Award	100
+team sport	101
+part of the world	102
+theatre award	103
+largest city	104
+National Football League draft	105
+research university	106
+spectator sport	107
+big city	108
+religion	109
+business	110
+field of work	111
+Olympic sport	112
+Goya Awards	113
+prefecture of Japan	114
+inner planet of the Solar System	115
+county of North Carolina	116
+academic discipline	117
+nominal kinship	118
+production company	119
+literary award	120
+county of California	121
+college	122
+award for best leading actor	123
+Wikimedia disambiguation page	124
+literary genre by form	125
+military campaign	126
+colony	127
+film studio	128
+award for best leading actress	129
+professional degree	130
+award for best visual effects	131
+guitar technique	132
+consolidated city-county	133
+basketball team	134
+HTML4 named color	135
+county of Utah	136
+neighborhood	137
+season	138
+branch of philosophy	139
+matter	140
+rock band	141
+county of Oregon	142
+postgraduate diploma	143
+nation	144
+Golden Globe Awards	145
+Golden Globe Award ceremony	146
+Tony Awards	147
+state	148
+award for best supporting actor	149
+region of France	150
+animated television series	151
+comedic genre	152
+double feature	153
+type of musical ensemble/group	154
+province of South Africa	155
+town	156
+subsidiary	157
+home rule municipality of Pennsylvania	158
+home rule county of Pennsylvania	159
+sports club	160
+municipality of Austria	161
+bachelor's degree	162
+remake	163
+theatrical genre	164
+public university	165
+college of the University of Oxford	166
+public company	167
+award for best original screenplay	168
+public office	169
+state of Australia	170
+film format	171
+ethnic minority group	172
+music tradition	173
+Canadian football club	174
+universal classification scheme	175
+artistic profession	176
+housing ministry	177
+Christian denominational family	178
+colonial power	179
+county of Pennsylvania	180
+landlocked country	181
+neighborhood of Manhattan	182
+European Film Awards	183
+speculative fiction genre	184
+occupation group according to ISCO-08	185
+university campus	186
+island	187
+city for international conferences and tourism	188
+award	189
+university building	190
+film award category	191
+city in the state of New York	192
+borough of New York City	193
+war	194
+international sport governing body	195
+ocean	196
+college of music	197
+county town	198
+cause of death	199
+former national capital	200
+city in New Jersey	201
+educational stage	202
+neighborhood in Queens	203
+state or insular area capital of the United States	204
+National Society of Film Critics Award	205
+type of food or dish	206
+type of chemical entity	207
+Primetime Emmy Award annual ceremony	208
+Mediterranean country	209
+administrative territorial entity	210
+Nebula Award	211
+ceremonial county of England	212
+food crop	213
+law school	214
+constituent country of the United Kingdom	215
+literary genre	216
+country for sports	217
+award for best original song	218
+basketball position	219
+city-state	220
+television special	221
+religious movement	222
+original video animation series	223
+master's degree	224
+county of Maryland	225
+organization	226
+diaspora or migration by origin and host country	227
+independent city	228
+private not-for-profit educational institution	229
+ethnic community	230
+district town	231
+calendar month	232
+role	233
+technology company	234
+unitary state	235
+regional power	236
+liberal arts college	237
+academic degree	238
+oblast of Russia	239
+political party	240
+college town	241
+former administrative territorial entity	242
+historical country	243
+census-designated place in the United States	244
+nonprofit corporation	245
+cinema by country or region	246
+provincial or territorial capital city in Canada	247
+standard time zone in North America	248
+town divided by border	249
+cable channel	250
+municipality of Catalonia	251
+community	252
+federated state of Germany	253
+urban district of Bavaria	254
+animation studio	255
+award for best editing	256
+dog breed	257
+philosophical concept	258
+married couple	259
+borough in the United Kingdom	260
+association football team	261
+radio network	262
+civil war	263
+county of Ireland	264
+Ceremonial cities of the Republic of Ireland	265
+town in Croatia	266
+art style	267
+animated film series	268
+unparished area	269
+global city	270
+register	271
+sub-province-level division	272
+province of Canada	273
+art academy	274
+form of government	275
+Filmfare Awards	276
+county of Illinois	277
+nonprofit organization	278
+government organization	279
+county of Tennessee	280
+magnetic tape cassette format with side-by-side reels	281
+industry	282
+structural class of chemical entities	283
+board game publishing company	284
+award for best supporting actress	285
+art genre	286
+film award	287
+university-preparatory school	288
+heavy metal band	289
+professional sports team	290
+cinematic technique	291
+product distribution method	292
+higher education institution	293
+department of France	294
+record company	295
+radio station	296
+publication	297
+plucked string instrument	298
+Independent Spirit Awards	299
+Christian denomination	300
+municipality of Georgia	301
+sexual orientation	302
+input device	303
+border city	304
+collegiate university	305
+military branch	306
+political faction	307
+award for best adapted screenplay	308
+dictatorship of the proletariat	309
+province of Pakistan	310
+military operation	311
+award for best photography	312
+ecclesiastical occupation	313
+religious occupation	314
+music award	315
+geographic location	316
+drama school	317
+award for best costume design	318
+multi-sport event	319
+duo	320
+musical ensemble	321
+National Basketball Association draft	322
+television program	323
+religious denomination	324
+voice type	325
+conservatory	326
+award for best new actress	327
+class	328
+stock exchange	329
+residenz	330
+city of Oregon	331
+state with limited recognition	332
+academic rank	333
+island of Japan	334
+region of Japan	335
+Christian movement	336
+county of Wisconsin	337
+film festival edition	338
+philosophical movement	339
+taxon	340
+dyad	341
+group of awards	342
+recording industry term	343
+county of Delaware	344
+musical duo	345
+autonomous region with special statute	346
+house of representatives	347
+time zone	348
+planned community	349
+technical standard	350
+exempt charity	351
+city of Argentina	352
+ice hockey position	353
+ice hockey team	354
+class used in Universal Decimal Classification	355
+Wikinews article	356
+educational canon	357
+multinational military coalition	358
+award for worst (...)	359
+city of Pennsylvania	360
+human population	361
+video label	362
+county of Wyoming	363
+university in Ontario	364
+award for best performance	365
+radio program	366
+noble title	367
+private for-profit educational institution	368
+diet	369
+job title	370
+cemetery	371
+television genre	372
+county of Connecticut	373
+spectral color	374
+administrative city in the Republic of Ireland	375
+computer science term	376
+function	377
+Japan Academy Film Prize	378
+thriller genre	379
+trademark	380
+unitary parliamentary republic	381
+war front	382
+film festival	383
+secondary color	384
+television station	385
+legal profession	386
+subscription television channel	387
+province of the Netherlands	388
+product	389
+state of India	390
+moraine	391
+genre	392
+academic major	393
+cultural area	394
+town in the United States	395
+province of Spain	396
+term of the Canadian federal parliament	397
+award for best choreography	398
+county of Indiana	399
+twin	400
+multinational corporation	401
+form of television program	402
+handball team	403
+anti-missionary riot in China	404
+historical Chinese state	405
+medical school	406
+music award category	407
+women's disease	408
+sorority	409
+cultural region	410
+territory of the United States	411
+aerospace manufacturer	412
+Wikimedia duplicated page	413
+municipal government in Canada	414
+festival	415
+county of Washington	416
+civil decoration	417
+director's cut	418
+region of Italy	419
+television production company	420
+military school	421
+city of Illinois	422
+sub-set of literature	423
+University of Excellence	424
+high school	425
+London borough	426
+anagram	427
+county of Northern Ireland	428
+university head	429
+seminary	430
+fantasy genre	431
+Tony Awards ceremony	432
+county of Florida	433
+human race	434
+emotions	435
+county of Iowa	436
+legal person	437
+men's association football club	438
+softball position	439
+NRHP district	440
+video game developer	441
+literary mode	442
+direct-administered municipality	443
+mode of transport	444
+television series season	445
+second-class city	446
+business cluster	447
+fraternity	448
+Royal Peculiar	449
+county of Colorado	450
+educational institution	451
+main stream	452
+youth organisation	453
+book publisher	454
+elected legislative house	455
+tourist destination	456
+recurring event	457
+media profession	458
+continental union	459
+United States congressional district	460
+United States cable news	461
+county of Vermont	462
+boy band	463
+Catholic university	464
+neighborhood in Boston	465
+urban municipality in Germany	466
+lifetime achievement award	467
+award for best production design	468
+symptom or sign	469
+postgraduate degree	470
+civil parish	471
+county of Massachusetts	472
+public broadcaster	473
+group of stereoisomers	474
+federal holiday in the United States	475
+suburb	476
+crime	477
+online service	478
+special ward of Japan	479
+enterprise	480
+product category	481
+county of New Hampshire	482
+regular moon	483
+historical region	484
+radio format	485
+special award	486
+county of Georgia	487
+historical unrecognized state	488
+threequel	489
+publishing company	490
+canton of Switzerland	491
+metallic color	492
+excipient	493
+district of Austria	494
+meat	495
+chemical element	496
+town in India	497
+British overseas territories	498
+annual event	499
+county of Arizona	500
+second-order class	501
+annual sporting event	502
+state of Mexico	503
+university association	504
+Crown Dependencies	505
+roadshow	506
+battle	507
+military alliance	508
+lithophile	509
+economic activity	510
+courage award	511
+music by period of time	512
+criminal organization	513
+rugby league team	514
+university in Newfoundland and Labrador	515
+decimal currency	516
+news program	517
+multilateral development bank	518
+type of arts	519
+dictionary page in Wikipedia	520
+religious group	521
+Colonial Colleges	522
+standard variety	523
+color	524
+municipality	525
+complication	526
+academic enclave	527
+women's college in the United States	528
+specialty	529
+geographic region	530
+television network	531
+Hong Kong Film Awards	532
+musical concept	533
+highly urbanized city	534
+language group	535
+Field Operating Agency	536
+boarding school	537
+ranked list	538
+county of Virginia	539
+songwriting team	540
+chalcophile element	541
+umbrella organization	542
+county of Ohio	543
+literary form	544
+educational organization	545
+conglomerate	546
+ingredient	547
+mountain range	548
+prequel	549
+voivodeship of Poland	550
+region of New Zealand	551
+supercontinent	552
+office building	553
+religious syncretism	554
+multisports club	555
+dominion of the British Empire	556
+commune of Italy	557
+theatrical occupation	558
+French overseas collectivity	559
+city in Ukraine	560
+township of New Jersey	561
+holy city	562
+performing arts school	563
+county of Minnesota	564
+nationality	565
+lower-tier municipality	566
+encyclopedia article	567
+college of the University of Cambridge	568
+manga series	569
+metropolitan statistical area	570
+branch of chemistry	571
+school building	572
+theatre company	573
+metropolitan county	574
+division	575
+city of California	576
+constituency of the European Parliament	577
+religious war	578
+disease	579
+national minority	580
+electromechanical instruments	581
+county of Maine	582
+municipality of Finland	583
+Wikimedia list article	584
+human settlement	585
+county of Missouri	586
+province of Italy	587
+web service	588
+municipality of Spain	589
+people's republic	590
+literary work	591
+group or class of chemical substances	592
+proxy war	593
+river	594
+database	595
+Star Trek series	596
+aspect of history	597
+macrolanguage	598
+award for best theatrical show	599
+online marketplace	600
+Hugo Award	601
+yearly prize	602
+international organization	603
+collection	604
+two-dimensional visual artwork genre	605
+historic county of England	606
+United States senior military college	607
+film duology	608
+municipality of Portugal	609
+award for best screenplay	610
+human biblical figure	611
+business school	612
+county of Texas	613
+house of commons	614
+national Church	615
+type of musical work/composition	616
+district or neighborhood of Los Angeles	617
+independent museum	618
+academy	619
+autonomous region	620
+Hundred Flowers Awards	621
+electoral unit	622
+commune of France	623
+uncertainty	624
+company	625
+League of Nations mandate	626
+university in Quebec	627
+association football league	628
+state city of Latvia	629
+borough of Pennsylvania	630
+market town	631
+human-geographic territorial entity	632
+municipal corporation of West Bengal	633
+food ingredient	634
+media conglomerate	635
+county of Alabama	636
+Scottish region	637
+independent record label	638
+subcontinent	639
+peace award	640
+former province of Italy	641
+reserve team	642
+phase of human life	643
+navy	644
+game genre	645
+term	646
+communist state	647
+fraternal organization	648
+area of London	649
+district	650
+broadcast network	651
+unelected legislative house	652
+radio genre	653
+astronomical observatory	654
+empire	655
+archipelago	656
+fu	657
+award for best book (by genre)	658
+system lifecycle phase	659
+borough of New Jersey	660
+bicameral legislature	661
+class of anatomical entity	662
+lifestyle	663
+single-tier municipality	664
+game show	665
+comprehensive university	666
+Scottish district	667
+large burgh	668
+diaspora or migration by origin country/region/continent	669
+county of Hawaii	670
+volcanic island	671
+province of China	672
+legal position	673
+Scooby-Doo television series	674
+imprecise class of chemical entities	675
+civil parish with city status	676
+LGBT village	677
+higher education institution directly under Ministry of Education of the People’s Republic of China	678
+sound	679
+novel genre	680
+school	681
+women's national association football team	682
+film school	683
+United States presidential election	684
+province of the Spanish Empire	685
+urban area in Sweden	686
+centerfold	687
+extremism	688
+class of chemical entities with similar source or occurrence	689
+federal state of Austria	690
+territory outside RCM	691
+boys' school	692
+shire of Scotland	693
+manner of death	694
+war of independence	695
+graduate school	696
+type of world view	697
+group of chemical entities	698
+northern sea	699
+holding company	700
+musical scene	701
+seaside resort	702
+weapon functional class	703
+essential medicine	704
+designated intractable/rare disease	705
+series of wars	706
+sea	707
+media company	708
+military rank	709
+television series genre	710
+county of Rhode Island	711
+national cricket team	712
+charitable organization	713
+type of animated work	714
+animation technique	715
+conflict	716
+county of Oklahoma	717
+county of Nevada	718
+series of creative works	719
+art movement	720
+female idol group	721
+ethnoreligious group	722
+place with town rights and privileges	723
+football club	724
+state of Malaysia	725
+United States federal agency	726
+cinema film format	727
+branch of science	728
+religion type	729
+Islamic Republic	730
+port settlement	731
+landgraviate	732
+maritime occupation	733
+episcopal conference	734
+transboundary river	735
+city council	736
+elective office	737
+learned society	738
+territory of Canada	739
+provinces of Prussia	740
+transitional government	741
+railway point in Canada	742
+county of New Mexico	743
+inferior planet	744
+New England town	745
+municipality of the Netherlands	746
+type of process	747
+archaeological museum	748
+Sportsperson of the Year	749
+airline	750
+television channel	751
+county of Kentucky	752
+cold war	753
+estuary	754
+city in British Columbia	755
+World Athletics Championships	756
+sports competition	757
+commune of Ivory Coast	758
+municipality of Tunisia	759
+airport	760
+city in Bulgaria	761
+ballet school	762
+Catholic cathedral	763
+ancient language	764
+independent agency of the United States government	765
+pontifical university	766
+type of educational institution	767
+kingdom	768
+Free city	769
+war of national liberation	770
+clinical finding	771
+county of Nebraska	772
+ideology	773
+tourist attraction	774
+architectural firm	775
+province of the Philippines	776
+administrative region of Greece	777
+province of Argentina	778
+Internet television	779
+science award	780
+video game publisher	781
+borough of Alaska	782
+American football league	783
+province of South Korea	784
+province of Indonesia	785
+failure mode	786
+stock character	787
+county of Arkansas	788
+unitary authority area in England	789
+city with special status	790
+theater of war	791
+administrative county	792
+vocal group	793
+internet service provider	794
+video streaming service	795
+city of New Brunswick	796
+international airport	797
+hypothesis	798
+local Internet registry	799
+television pilot	800
+locality of Mexico	801
+lake	802
+city of Iran	803
+entertainment company	804
+commune of Haiti	805
+political territorial entity	806
+human migration	807
+recording studio	808
+document genre	809
+film academy	810
+Worldcon	811
+composer duo	812
+state capital	813
+vital record	814
+selective school	815
+city of Indonesia	816
+university college	817
+intifada	818
+armed forces	819
+customs territory of China	820
+concert hall	821
+science fiction genre	822
+sports league	823
+ancient city	824
+village of New Jersey	825
+group	826
+type of record label	827
+multi-paradigm programming language	828
+combined statistical area	829
+Genie Awards	830
+central university	831
+private school	832
+architecture school	833
+planetary system	834
+peninsula	835
+United States federal executive department	836
+military profession	837
+music by ethnic group	838
+title of honor	839
+army	840
+grand établissement	841
+organisms known by a particular common name	842
+archive	843
+daily newspaper	844
+designated spa town	845
+territory of Australia	846
+mathematical theory	847
+national cuisine	848
+sports hall of fame	849
+food manufacturer	850
+type of organisation	851
+council	852
+code of conduct	853
+culture of Italy	854
+literary language	855
+type foundry	856
+theatre comedy group	857
+statutory corporation	858
+federative unit of Brazil	859
+animated short film series	860
+cricket team	861
+Indigenous people	862
+forestry agency	863
+animated character	864
+ethnic conflict	865
+performing arts genre	866
+job activity	867
+independent city of Saxony-Anhalt	868
+religious identity	869
+place type	870
+Option municipality	871
+unicameral legislature	872
+county of South Carolina	873
+drainage basin	874
+fellowship	875
+village of New York	876
+mythology	877
+event	878
+county of Montana	879
+Unix	880
+project	881
+state order	882
+group of isomeric entities	883
+home rule city of Michigan	884
+municipality of Brazil	885
+infectious disease	886
+media franchise	887
+town of New Jersey	888
+non-geologically related mountain range	889
+Wissenschaft	890
+mainland territory of Australia	891
+classification in sports	892
+news agency	893
+independent school	894
+show business profession	895
+university in France	896
+non-metropolitan district	897
+metropolitan municipality in Turkey	898
+region of the Philippines	899
+skilled trade	900
+poker tournament	901
+Christian Church	902
+medical finding	903
+hypermarket chain	904
+principal area of Wales	905
+long-series books	906
+administrative territorial entity of New Zealand	907
+brand	908
+museum	909
+county government in the United States	910
+medieval commune	911
+economic system	912
+television award	913
+historic house museum	914
+architecture award	915
+professional sports league	916
+squadron	917
+anime award	918
+operating system	919
+military academy	920
+equine coat color	921
+hospitaller order	922
+insurgency	923
+political organization	924
+cyberpunk derivative form	925
+itinerant groups of Europe	926
+invasion	927
+fictional humanoid	928
+art museum	929
+census area of Alaska	930
+composite monarchy	931
+administrative territorial entity of Uzbekistan	932
+county of North Dakota	933
+county of West Virginia	934
+federal city	935
+clinical sign	936
+marines	937
+title	938
+revolution	939
+tennis court	940
+film series	941
+imprint	942
+astronomical object type	943
+compact city	944
+magnet school	945
+lieutenancy area of Scotland	946
+ethnic group in Indonesia	947
+former political party	948
+concert tour	949
+group of humans	950
+road	951
+political ideology	952
+autonomous province of Serbia	953
+township of Illinois	954
+building type	955
+501(c)(3) organization	956
+house of lords	957
+Australian rules football club	958
+municipality of Puerto Rico	959
+city or town	960
+off-side rule language	961
+castle chapel	962
+parish of Louisiana	963
+comics character	964
+social issue	965
+popular front	966
+provincial municipality of Cambodia	967
+county of Kansas	968
+village	969
+Hanseatic city	970
+List of dialects of English	971
+wound decoration	972
+autonomous community of Spain	973
+financial regulatory agency	974
+music by language	975
+Islamic denomination	976
+electronics	977
+ethnic religion	978
+conservation organization	979
+century	980
+foreign affairs ministry	981
+highland	982
+type of work of art	983
+defunct sports team	984
+most valuable player award	985
+end	986
+drug	987
+upper house of U.S. state legislature	988
+article	989
+airline alliance	990
+armed organization	991
+capital city	992
+municipality of Aragon	993
+communist party	994
+head of state	995
+poetry award	996
+free operating system	997
+disputed territory	998
+district of India	999
+occupied territory	1000
+key event	1001
+PM20 subject category	1002
+regime	1003
+broadcaster	1004
+official	1005
+federal law enforcement agency of the United States	1006
+mathematics award	1007
+municipality of West Bengal	1008
+megacity	1009
+superior planet	1010
+film character	1011
+proprietary software	1012
+shipbuilding company	1013
+urban district of Bremen	1014
+social movement	1015
+Scottish council area	1016
+object-based language	1017
+game-based sport	1018
+video game	1019
+physics engine	1020
+trade association	1021
+statutory city in Czechia	1022
+crematorium	1023
+cultural movement	1024
+collection of literary works	1025
+basketball terminology	1026
+order of chivalry	1027
+phenomenon	1028
+status	1029
+confessional aspect	1030
+Ortsteil	1031
+legal form	1032
+G-type main-sequence star	1033
+lower house	1034
+circus profession	1035
+lake area	1036
+individual transportation	1037
+shipyard	1038
+air force	1039
+medication	1040
+Poverty Row	1041
+city in Saudi Arabia	1042
+racecar constructor	1043
+city of Switzerland	1044
+political philosophy	1045
+government agency	1046
+census division of Canada	1047
+model series	1048
+racial group	1049
+foundation	1050
+ethnolect	1051
+oblast seat	1052
+media	1053
+naval aviation component	1054
+ChEBI Ontology term	1055
+climbing discipline	1056
+royal house	1057
+doubled population centers	1058
+municipality of Norway	1059
+noble family	1060
+trade name	1061
+rock type	1062
+environmental issue	1063
+state church	1064
+supreme court	1065
+state agency of California	1066
+philosophical school	1067
+social organization	1068
+school district in the United States	1069
+parliamentary grouping	1070
+applied science	1071
+superpower	1072
+age of a person	1073
+historical position	1074
+terra nullius	1075
+political system	1076
+Alpine section	1077
+National Park of the United States	1078
+suburb of Perth	1079
+city district	1080
+programming language	1081
+property crime	1082
+violation of law	1083
+dynasty	1084
+boardgame genre	1085
+fixed-base operator	1086
+hall of fame	1087
+academic institution	1088
+disability	1089
+crime film character	1090
+assembly	1091
+military casualty classification	1092
+mobile operating system	1093
+health profession	1094
+first-level administrative division	1095
+attitude	1096
+architectural style	1097
+zone of Nepal	1098
+area of mathematics	1099
+vice president	1100
+sports award	1101
+metric	1102
+horse	1103
+Tour de France	1104
+Grand Tour	1105
+green party	1106
