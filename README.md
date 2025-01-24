@@ -1,7 +1,8 @@
 # paper name
 
- - [Making Large Language Models Perform Better in Knowledge Graph Completion
-](https://arxiv.org/abs/2310.06671)
+[//]: # ( - [Making Large Language Models Perform Better in Knowledge Graph Completion)
+
+[//]: # (]&#40;https://arxiv.org/abs/2310.06671&#41;)
 
 > abstract
 
@@ -17,7 +18,7 @@ You may need to fill the LLM path and save path before running. The hyper-parame
 
 - run inference
 ```shell
-CUDA_VISIBLE_DEVICES=0 python main.py
+python main.py
 ```
 
 
