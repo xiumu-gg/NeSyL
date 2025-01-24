@@ -1,0 +1,238 @@
+237
+/location/country/form_of_government	0 	Categorization Relationship
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	1 	Role Relationship
+/media_common/netflix_genre/titles	2 	Categorization Relationship
+/award/award_winner/awards_won./award/award_honor/award_winner	3 	Association Relationship
+/soccer/football_team/current_roster./sports/sports_team_roster/position	4 	Role Relationship
+/soccer/football_team/current_roster./soccer/football_roster_position/position	5 	Role Relationship
+/film/actor/film./film/performance/film	6 	Participation Relationship
+/award/award_category/nominees./award/award_nomination/nominated_for	7 	Nomination Relationship
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	8 	Recursive Association Relationship
+/music/performance_role/regular_performances./music/group_membership/role	9 	Role Relationship
+/award/award_category/winners./award/award_honor/ceremony	10 	Event Relationship
+/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	11 	Temporal Relationship
+/award/award_winning_work/awards_won./award/award_honor/award_winner	12 	Association Relationship
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	13 	Temporal and Regional Relationship
+/film/film/language	14 	Attribute Relationship
+/location/location/contains	15 	Hierarchical Relationship
+/organization/organization/headquarters./location/mailing_address/country	16 	Locational Attribute Relationship
+/people/person/profession	17 	Attribute Relationship
+/location/statistical_region/religions./location/religion_percentage/religion	18 	Demographic Relationship
+/award/award_nominee/award_nominations./award/award_nomination/award	19 	Nomination Relationship
+/music/genre/artists	20 	Categorization Relationship
+/influence/influence_node/influenced_by	21 	Causal Relationship
+/education/educational_institution/students_graduates./education/education/student	22 	Role Relationship
+/organization/organization_member/member_of./organization/organization_membership/organization	23 	Membership Relationship
+/people/person/place_of_birth	24 	Origin Relationship
+/common/topic/webpage./common/webpage/category	25 	Categorization Relationship
+/film/film/other_crew./film/film_crew_gig/film_crew_role	26 	Role Relationship
+/award/award_ceremony/awards_presented./award/award_honor/award_winner	27 	Event Relationship
+/film/film/country	28 	Attribute Relationship
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	29 	National Representation Relationship
+/award/award_winning_work/awards_won./award/award_honor/award	30 	Recognition Relationship
+/film/film/genre	31 	Categorization Relationship
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	32 	Distribution Relationship
+/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	33 	Economic Indicator Relationship
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	34 	Financial Specification Relationship
+/government/legislative_session/members./government/government_position_held/district_represented	35 	Representational Relationship
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	36 	Role Relationship
+/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	37 	Jurisdictional Relationship
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	38 	Nomination Relationship
+/people/deceased_person/place_of_death	39 	Event Location Relationship
+/sports/pro_athlete/teams./sports/sports_team_roster/team	40 	Membership Relationship
+/music/artist/track_contributions./music/track_contribution/role	41 	Role Relationship
+/music/instrument/instrumentalists	42 	Skill Relationship
+/people/person/gender	43 	Attribute Relationship
+/business/job_title/people_with_this_title./business/employment_tenure/company	44 	Professional Relationship
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	45 	Social Relationship
+/business/business_operation/industry	46 	Categorization Relationship
+/award/award_category/winners./award/award_honor/award_winner	47 	Recognition Relationship
+/people/person/nationality	48 	Attribute Relationship
+/sports/sports_team/roster./baseball/baseball_roster_position/position	49 	Role Relationship
+/people/cause_of_death/people	50 	Causal Relationship
+/tv/tv_program/languages	51 	Attribute Relationship
+/music/genre/parent_genre	52 	Hierarchical Relationship
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant	53 	Event Participation Relationship
+/location/country/capital	54 	Representative Relationship
+/film/special_film_performance_type/film_performance_type./film/performance/film	55 	Categorization Relationship
+/location/hud_county_place/place	56 	Locational Hierarchy Relationship
+/music/performance_role/guest_performances./music/recording_contribution/performance_role	57 	Role Relationship
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	58 	Spatial Relationship
+/film/film_subject/films	59 	Thematic Relationship
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	60 	Financial Attribute Relationship
+/education/educational_institution/colors	61 	Attribute Relationship
+/base/aareas/schema/administrative_area/administrative_parent	62 	Hierarchical Relationship
+/organization/role/leaders./organization/leadership/organization	63 	Leadership Relationship
+/government/legislative_session/members./government/government_position_held/legislative_sessions	64 	Participation Relationship
+/olympics/olympic_games/sports	65 	Categorization Relationship
+/people/person/places_lived./people/place_lived/location	66 	Historical Relationship
+/award/award_category/disciplines_or_subjects	67 	Classification Relationship
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	68 	Educational Background Relationship
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	69 	Achievement Relationship
+/language/human_language/countries_spoken_in	70 	Linguistic Distribution Relationship
+/people/ethnicity/people	71 	Categorization Relationship
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	72 	Participation Relationship
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	73 	Achievement Relationship
+/film/film/other_crew./film/film_crew_gig/crewmember	74 	Role Relationship
+/music/performance_role/track_performances./music/track_contribution/role	75 	Participation Relationship
+/music/record_label/artist	76 	Affiliation Relationship
+/base/popstra/celebrity/dated./base/popstra/dated/participant	77 	Social Relationship
+/base/locations/continents/countries_within	78 	Geographical Containment Relationship
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	79 	Educational Background Relationship
+/sports/sports_team/sport	80 	Classification Relationship
+/education/educational_institution_campus/educational_institution	81 	Affiliation Relationship
+/people/person/religion	82 	Attribute Relationship
+/organization/organization/headquarters./location/mailing_address/citytown	83 	Locational Attribute Relationship
+/film/film/produced_by	84 	Production Relationship
+/people/person/spouse_s./people/marriage/type_of_union	85 	Relational Attribute Relationship
+/film/film/production_companies	86 	Affiliation Relationship 
+/location/country/second_level_divisions	87 	Administrative Hierarchy Relationship
+/base/culturalevent/event/entity_involved	88 	Participation Relationship
+/education/educational_degree/people_with_this_degree./education/education/institution	89 	Educational Achievement Relationship
+/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	90 	Distribution Relationship
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	91 	Role Specification Relationship
+/music/performance_role/regular_performances./music/group_membership/group	92 	Membership and Role Relationship
+/government/politician/government_positions_held./government/government_position_held/legislative_sessions	93 	Participation Relationship
+/sports/sports_team_location/teams	94 	Locational Association Relationship
+/sports/sports_team/colors	95 	Attribute Relationship
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	96 	Recruitment Relationship
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	97 	Nomination Relationship
+/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	98 	Performance Tracking Relationship
+/user/alexander/philosophy/philosopher/interests	99 	Interest Relationship
+/people/person/languages	100 	Linguistic Capability Relationship
+/education/educational_institution/students_graduates./education/education/major_field_of_study	101 	Educational Background Relationship
+/film/director/film	102 	Creative Leadership Relationship
+/award/award_ceremony/awards_presented./award/award_honor/honored_for	103 	Recognition Relationship
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	104 	Participation Relationship
+/film/film/costume_design_by	105 	Creative Contribution Relationship
+/film/film/featured_film_locations	106 	Locational Feature Relationship
+/tv/tv_program/genre	107 	Categorization Relationship
+/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	108 	Financial Status Relationship
+/film/film/written_by	109 	Authorship Relationship
+/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type	110 	Production Role Relationship
+/location/hud_county_place/county	111 	Geographical Hierarchy Relationship
+/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	112 	Educational Background Relationship
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	113 	Communication Attribute Relationship
+/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	114 	Membership and Duration Relationship
+/film/film/film_format	115 	Technical Specification Relationship
+/film/film/music	116 	Creative Contribution Relationship
+/sports/sports_team/roster./american_football/football_roster_position/position	117 	Role Relationship
+/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	118 	Classification Relationship
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	119 	Social Network Relationship
+/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	120 	Statistical Data Relationship
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	121 	Affiliation Relationship
+/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	122 	Preference Relationship
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	123 	Social Interaction Relationship
+/education/educational_institution/school_type	124 	Categorization Relationship
+/sports/sport/pro_athletes./sports/pro_sports_played/athlete	125 	Participation Relationship
+/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	126 	Recognition Relationship
+/base/biblioness/bibs_location/state	127 	Geographical Assignment Relationship
+/education/university/local_tuition./measurement_unit/dated_money_value/currency	128 	Financial Specification Relationship
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency	129 	Economic Relationship
+/sports/sports_position/players./sports/sports_team_roster/team	130 	Role Assignment Relationship
+/military/military_conflict/combatants./military/military_combatant_group/combatants	131 	Affiliation Relationship
+/sports/sports_league/teams./sports/sports_league_participation/team	132 	Participation Relationship
+/base/biblioness/bibs_location/country	133 	Geographical Assignment Relationship
+/music/group_member/membership./music/group_membership/role	134 	Role Relationship
+/location/administrative_division/country	135 	Hierarchical Relationship
+/film/film/executive_produced_by	136 	Production Leadership Relationship
+/food/food/nutrients./food/nutrition_fact/nutrient	137 	Component Relationship
+/music/group_member/membership./music/group_membership/group	138 	Membership Relationship
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	139 	Economic Indicator Relationship
+/education/field_of_study/students_majoring./education/education/student	140 	Educational Background Relationship
+/award/award_winning_work/awards_won./award/award_honor/honored_for	141 	Recognition Relationship
+/sports/sports_team/roster./basketball/basketball_roster_position/position	142 	Role Relationship
+/organization/organization/headquarters./location/mailing_address/state_province_region	143 	Locational Attribute Relationship
+/base/aareas/schema/administrative_area/capital	144 	Representative Relationship
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	145 	Production Relationship
+/education/educational_institution/campuses	146 	Organizational Structure Relationship
+/film/film/distributors./film/film_film_distributor_relationship/region	147 	Distribution Relationship
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	148 	Temporal Environmental Relationship
+/medicine/disease/notable_people_with_this_condition	149 	Biographical Relationship
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	150 	Service Relationship
+/people/ethnicity/geographic_distribution	151 	Demographic Distribution Relationship
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	152 	Conflict Participation Relationship
+/film/film/personal_appearances./film/personal_film_appearance/person	153 	Appearance Relationship
+/location/location/time_zones	154 	Temporal Attribute Relationship
+/film/film/story_by	155 	Authorship Relationship
+/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	156 	Popularity Relationship
+/olympics/olympic_games/participating_countries	157 	Participation Relationship
+/tv/tv_network/programs./tv/tv_network_duration/program	158 	Broadcast Relationship
+/people/person/employment_history./business/employment_tenure/company	159 	Professional History Relationship
+/music/artist/origin	160 	Origin Relationship
+/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	161 	Event Location Relationship
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	162 	Creative Contribution Relationship
+/time/event/locations	163 	Event Spatial Relationship
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	164 	Personal Relationship
+/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	165 	Membership Relationship
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	166 	Financial Specification Relationship
+/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency	167 	Regulatory Compliance Relationship
+/user/ktrueman/default_domain/international_organization/member_states	168 	Membership Relationship
+/american_football/football_team/current_roster./sports/sports_team_roster/position	169 	Role Relationship
+/soccer/football_player/current_team./sports/sports_team_roster/team	170 	Team Affiliation Relationship
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	171 	Achievement Relationship
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	172 	Recognition Relationship
+/film/film_set_designer/film_sets_designed	173 	Creative Contribution Relationship
+/user/jg/default_domain/olympic_games/sports	174 	Categorization Relationship
+/people/person/sibling_s./people/sibling_relationship/sibling	175 	Family Relationship
+/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	176 	Competition Relationship
+/music/artist/contribution./music/recording_contribution/performance_role	177 	Role Relationship
+/sports/sports_position/players./sports/sports_team_roster/position	178 	Role Relationship
+/government/politician/government_positions_held./government/government_position_held/basic_title	179 	Official Capacity Relationship
+/sports/sports_position/players./american_football/football_historical_roster_position/position_s	180 	Historical Role Relationship
+/people/profession/specialization_of	181 	Hierarchical Relationship
+/award/award_category/category_of	182 	Hierarchical Relationship
+/film/film/cinematography	183 	Creative Contribution Relationship
+/film/film/film_production_design_by	184 	Creative Contribution Relationship
+/tv/tv_program/country_of_origin	185 	Origin Relationship
+/film/film/edited_by	186 	Creative Contribution Relationship
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	187 	Participation Relationship
+/education/field_of_study/students_majoring./education/education/major_field_of_study	188 	Educational Background Relationship
+/education/educational_degree/people_with_this_degree./education/education/student	189 	Achievement Relationship
+/location/us_county/county_seat	190 	Administrative Center Relationship
+/film/film/film_festivals	191 	Event Participation Relationship
+/people/person/spouse_s./people/marriage/spouse	192 	Family Relationship
+/film/film/runtime./film/film_cut/film_release_region	193 	Version and Distribution Relationship
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	194 	Hierarchical Administrative Relationship
+/base/aareas/schema/administrative_area/administrative_area_type	195 	Categorization Relationship
+/influence/influence_node/peers./influence/peer_relationship/peers	196 	Social Influence Relationship
+/government/governmental_body/members./government/government_position_held/legislative_sessions	197 	Participation Relationship
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	198 	Communication Relationship
+/organization/organization/place_founded	199 	Origin Relationship
+/base/eating/practicer_of_diet/diet	200 	Lifestyle and Habit Relationship
+/tv/tv_program/program_creator	201 	Creative Attribution Relationship
+/people/deceased_person/place_of_burial	202 	Event Location Relationship
+/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	203 	Release Event Relationship
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	204 	Role Relationship
+/location/administrative_division/first_level_division_of	205 	Hierarchical Relationship
+/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	206 	Economic Indicator Relationship
+/organization/organization/child./organization/organization_relationship/child	207 	Organizational Hierarchy Relationship
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	208 	Financial Relationship
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	209 	Participation Relationship
+/time/event/instance_of_recurring_event	210 	Temporal Relationship
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	211 	Participation Relationship
+/film/actor/film./film/performance/special_performance_type	212 	Performance Relationship
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	213 	Financial Relationship
+/people/ethnicity/languages_spoken	214 	Cultural Relationship
+/base/americancomedy/celebrity_impressionist/celebrities_impersonated	215 	Entertainment Relationship
+/medicine/symptom/symptom_of	216 	Causal Relationship
+/education/university/fraternities_and_sororities	217 	Organizational Relationship
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	218 	Economic Relationship
+/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	219 	Economic Indicator Relationship
+/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	220 	Logistical Relationship
+/location/country/official_language	221 	Cultural Attribute Relationship
+/location/location/partially_contains	222 	Geographical Containment Relationship
+/film/film/film_art_direction_by	223 	Creative Contribution Relationship
+/people/person/spouse_s./people/marriage/location_of_ceremony	224 	Event Location Relationship
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	225 	Financial Specification Relationship
+/organization/organization_founder/organizations_founded	226 	Founding Relationship
+/film/film/dubbing_performances./film/dubbing_performance/actor	227 	Performance Role Relationship
+/dataworld/gardening_hint/split_to	228 	Taxonomical or Informational Segmentation Relationship
+/medicine/disease/risk_factors	229 	Causal or Contributing Factor Relationship
+/film/film/prequel	230 	Temporal Relationship
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	231 	Temporal Availability Relationship
+/film/actor/dubbing_performances./film/dubbing_performance/language	232 	Performance and Localization Relationship
+/broadcast/content/artist	233 	Creative Contribution Relationship
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	234 	Economic Indicator Relationship
+/music/instrument/family	235 	Categorization Relationship
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	236 	Jurisdictional Relationship
